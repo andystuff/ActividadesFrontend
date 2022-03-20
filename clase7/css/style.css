@@ -1,0 +1,43 @@
+.fondo {
+    background-image: url('../img/playa.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    height: 400px;
+    width: 100%
+}
+
+.foto_perfil {
+    background-image: url('../img/foto.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 75%;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    color: #032833;
+    background-color: aquamarine;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    background-color: aquamarine;
+    color: #032833;
+}
+
+li {
+    background-color: antiquewhite;
+}
