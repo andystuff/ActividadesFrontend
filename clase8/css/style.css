@@ -1,0 +1,75 @@
+.encabezado1 {
+    background-color: #222;
+    color: white;
+    height: 20px;
+    text-decoration: none;
+    width: 1024px;
+}
+
+.encabezado2 {
+    background-color: #F0A83E;
+    height: 62px;
+    width: 1024px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+body.main.footer {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: #3C2313;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+}
+
+.imagenfondo {
+    position: inherit;
+    text-align: left;
+    height: 409px;
+    width: 1024px;
+}
+
+.comederos {
+    color: #3C2313
+}
+
+.comederosboton {
+    background-color: #F0A83E;
+}
+
+h1 {
+    color: #3C2313;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.footer {
+    background-color: #3C2313;
+    color: white;
+    height: 284px;
+    width: 1024px;
+}
+
+.enlaces {
+    color: #3C2313;
+}
+
+.pie {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    height: 20px;
+    width: 1024px;
+}
+
+.precio {
+    color: #F0A83E;
+}
