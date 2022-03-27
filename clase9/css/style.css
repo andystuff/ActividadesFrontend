@@ -1,0 +1,112 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    header {
+        width: 1024px;
+    }
+    
+    main {
+        background-color: #E5E5E5;
+        width: 1024px;
+    }
+    
+    .caja1 {
+        background-color: #1CD1B0;
+        font-size: 15px;
+        font-weight: 400;
+        font-style: normal;
+        height: 38px;
+        width: 1024px;
+    }
+    
+    .caja2 {
+        background-color: #00669F;
+        font-size: 40px;
+        font-weight: 400;
+        font-style: normal;
+        box-shadow: 0px 10px 7px;
+        height: 101px;
+        width: 1024px;
+        top: 38px;
+    }
+    
+    .contenedor {
+        display: flex;
+    }
+    
+    .card1 {
+        display: inline-block;
+        background-image: url('../img/baticueva.png');
+        background-repeat: no-repeat;
+        background-position: relative;
+        width: 300px;
+        height: 529px;
+        background-color: #f3f3f3;
+        margin-left: 100px;
+        margin-top: 200px;
+        border-radius: 30px;
+        justify-content: center;
+    }
+    
+    .card2 {
+        display: inline-block;
+        background-image: url('../img/explosion.png');
+        background-repeat: no-repeat;
+        background-position: relative;
+        width: 300px;
+        height: 529px;
+        background-color: #f3f3f3;
+        margin-left: 100px;
+        margin-top: 200px;
+        border-radius: 30px;
+        justify-content: center;
+    }
+    
+    .perfil {
+        border-radius: 50vh;
+        position: absolute;
+        width: 120px;
+        height: 118px;
+        margin: 134px 91px;
+    }
+    
+    .titulo {
+        position: relative;
+        top: 230px;
+        left: 97.55px;
+    }
+    
+    .texto {
+        position: relative;
+        top: 250px;
+        font-size: 18px;
+        padding: 0 25px;
+    }
+    
+    .vermas {
+        position: relative;
+        top: 285px;
+        left: 100px;
+    }
+    
+    footer {
+        background-color: #00669F;
+        box-shadow: 0px 4px 4px;
+        width: 1024px;
+        height: 51px;
+    }
+    
+    .pie {
+        color: #FFF9F9;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        text-align: left;
+    }
